@@ -1,0 +1,1 @@
+When the hidden nodes increase the pattern of accuracy tries to fit to the color combination and accuracy is increasing then if we add further hidden nodes the accuracy will decrease than before.
